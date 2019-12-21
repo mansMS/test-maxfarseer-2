@@ -1,0 +1,10 @@
+.active {
+	color: red;
+}
+
+.Navbar a {
+	border: 1px solid #000;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 3px;
+}
